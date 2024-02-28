@@ -25,3 +25,15 @@ We try to raise the trust in the quality of the project as high as possible by f
 
 #### 1.3.	Functionalities and tests out of scope
 •	Non-functional testing like stress testing, performance testing, usability testing, portability testing, compliance regulatory testing, security testing, load testing, volume testing, spike testing, scalability testing, reliability testing, system testing, and maintenance testing is beyond scope of this project.
+•	Automation testing is beyond scope.
+•	QA of the module on the Mobile application is beyond scope.
+•	All features that are not under Frontend module.
+
+### 2.	Test process.
+#### 2.1.	Test planning.
+##### 2.1.1.	Roles and responsibilities
+| Mihai -QA junior      | Description                  |
+| ---------- | ------------------------ | -------------- |------------|
+| 28.02.2024 | Test Plan for Magento 2  | Dăneasă Mihai  |Version 1.0 |
+
+
