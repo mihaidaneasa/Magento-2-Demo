@@ -177,7 +177,7 @@ We try to raise the trust in the quality of the project as high as possible by f
 ## 3.	Test deliverables.
 
 ### 3.1.	Test plan. 
-[link to test plan]
+(https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20plan.pdf)
 
 ### 3.2.	Test conditions. 
 The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
