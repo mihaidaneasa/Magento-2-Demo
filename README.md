@@ -32,9 +32,9 @@ We try to raise the trust in the quality of the project as high as possible by f
 ### 2.	Test process.
 #### 2.1.	Test planning.
 ##### 2.1.1.	Roles and responsibilities
-| Mihai -QA junior      | Description                  |
-| ---------- | ------------------------ | -------------- |------------|
-| 28.02.2024 | Test Plan for Magento 2  | Dăneasă Mihai  |Version 1.0 |
+| Mihai -QA junior      |will test: User Management, Job, Qualifications         |
+| --------------------- | -------------------------------------------------------|
+| QA Senior             | will test: Organization, Nationalities, Configuration  |
 
 
-[Test cases](https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)
+[Test cases] (https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)
