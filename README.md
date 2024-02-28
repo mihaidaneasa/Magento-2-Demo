@@ -1,60 +1,60 @@
 ## Magento 2 Demo
 
-1.	Introduction	1
+1.	Introduction
    
-  1.1.	Project Objective	1
+     1.1.	Project Objective
   	
-     1.1.1.	Application web site:	1
+         1.1.1.	Application web site:
     
-     1.1.2.	Documentation:	1
+         1.1.2.	Documentation:
      
-  1.2.	Functionalities in scope	1
+     1.2.	Functionalities in scope
    
- 1.3.	Functionalities and tests out of scope	1
+    1.3.	Functionalities and tests out of scope
    
-3.	Test process	2
+2.	Test process
    
-  2.1.	Test planning	2
+     2.1.	Test planning
   
-    2.1.1.	Roles and responsibilities	2
+          2.1.1.	Roles and responsibilities
     
-    2.1.2.	Entry criteria:	2
+          2.1.2.	Entry criteria:
     
-    2.1.3.	Exit criteria:	2
+          2.1.3.	Exit criteria:
     
-    2.1.4.	Risks:	2
+          2.1.4.	Risks:
     
-  2.2.	Test analysis	2
+     2.2.	Test analysis
   
-  2.3.	Test design	2
+     2.3.	Test design
   
-  2.4.	Test implementation	2
+     2.4.	Test implementation
   
-  2.5.	Test execution	3
+     2.5.	Test execution
   
-  2.6.	Test closure	3
+     2.6.	Test closure
   
-  2.7.	Test monitoring and control	3
+     2.7.	Test monitoring and control
   
-5.	Test deliverables	3
+3.	Test deliverables
    
-  3.1.	Test plan	3
+     3.1.	Test plan
   
-  3.2.	Test conditions	3
+     3.2.	Test conditions
   
-  3.3.	Test cases	3
+     3.3.	Test cases
   
-  3.4.	Daily/Weekly/Monthly test summary report	3
+     3.4.	Daily/Weekly/Monthly test summary report
   
-  3.5.	Traceability matrix	3
+     3.5.	Traceability matrix
   
-  3.6.	Test case results	3
+     3.6.	Test case results
   
-  3.7.	Bugs report	3
+     3.7.	Bugs report
   
-  3.8.	Test completion report	4
+     3.8.	Test completion report
   
-  3.9.	Schedule	4
+     3.9.	Schedule
   
 
 
