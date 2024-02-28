@@ -33,6 +33,7 @@ We try to raise the trust in the quality of the project as high as possible by f
 #### 2.1.	Test planning.
 ##### 2.1.1.	Roles and responsibilities
 | Mihai -QA junior      |will test: User Management, Job, Qualifications         |
+|-----------------------|--------------------------------------------------------|
 | QA Senior             | will test: Organization, Nationalities, Configuration  |
 
 
