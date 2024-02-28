@@ -39,6 +39,6 @@ We try to raise the trust in the quality of the project as high as possible by f
 
 [Test cases] (https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)
 
-
+![Imagine test](https://github.com/mihaidaneasa/test/blob/main/IMG_20151028_133404.jpg)
 
 
