@@ -212,7 +212,5 @@ The test conditions will be created based on the business requirements validated
 
 
 
-[Test cases] (https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)
-
 ![Imagine test](https://github.com/mihaidaneasa/test/blob/main/IMG_20151028_133404.jpg)
 
