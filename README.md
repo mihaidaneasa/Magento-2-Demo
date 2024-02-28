@@ -37,4 +37,4 @@ We try to raise the trust in the quality of the project as high as possible by f
 | 28.02.2024 | Test Plan for Magento 2  | Dăneasă Mihai  |Version 1.0 |
 
 
-(https://www.example.com/my%20great%20page)
+([https://www.example.com/my%20great%20page](https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)https://github.com/mihaidaneasa/test/blob/main/Contract.pdf)
