@@ -213,8 +213,3 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.xlsx
 ### 3.7.	Bugs report.
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Bug%20report.pdf
 
-
-
-
-![Imagine test](https://github.com/mihaidaneasa/test/blob/main/IMG_20151028_133404.jpg)
-
