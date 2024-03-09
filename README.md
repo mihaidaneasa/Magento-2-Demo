@@ -188,9 +188,9 @@ The test conditions will be created based on the business requirements validated
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.xlsx
 
 ### 3.4.	Daily/Weekly/Monthly test summary report
-•	link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc.) 
+![Imagine 1](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%201.jpg)
 
-•	reports will be exported from Jira and added here. 
+![Imagine 2](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%202.jpg)
 
 ### 3.5.	Traceability matrix
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability%20Matrix.xlsx
