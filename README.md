@@ -187,6 +187,8 @@ The test conditions will be created based on the business requirements validated
 ### 3.3.	Test cases.
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.xlsx
 
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.pdf
+
 ### 3.4.	Daily/Weekly/Monthly test summary report
 ![Imagine 1](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%201.jpg)
 
@@ -196,7 +198,7 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.xlsx
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability%20Matrix.xlsx
 
 ### 3.6.	Test case results.
-https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.pdf
+
 
 ### 3.7.	Bugs report.
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Bug%20report.pdf
