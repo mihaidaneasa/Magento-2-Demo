@@ -192,6 +192,18 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.pdf
 
 ![Imagine 2](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%202.jpg)
 
+![Imagine 3](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%20Daily.jpg)
+
+![Imagine 4](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%201.jpg)
+
+![Imagine 5](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%202.jpg)
+
+![Imagine 6](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Execution%20list%201.jpg)
+
+![Imagine 7](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Execution%20list%202.jpg)
+
+![Imagine 8](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Execution%20list%203.jpg)
+
 ### 3.5.	Traceability matrix
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability%20Matrix.xlsx
 
