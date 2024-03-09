@@ -201,7 +201,7 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability%20Matrix.x
 •	test case result will be exported from Jira and added here. 
 
 ### 3.7.	Bugs report.
-•	link to bugs report.
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Bug%20report.pdf
 
 •	bug reports will be exported from Jira and added here. 
 
