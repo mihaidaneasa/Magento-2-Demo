@@ -185,13 +185,23 @@ The test conditions will be created based on the business requirements validated
 •	test conditions will be exported from Jira and added here. 
 
 ### 3.3.	Test cases.
-https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.pdf
+
 
 ### 3.4.	Daily/Weekly/Monthly test summary report
 ![Imagine 1](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%201.jpg)
 
 ![Imagine 2](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%202.jpg)
 
+### 3.5.	Traceability matrix
+
+
+### 3.6.	Test case results.
+
+
+### 3.7.	Bugs report.
+
+
+### 3.8 Test execution
 ![Imagine 3](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%20Daily.jpg)
 
 ![Imagine 4](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%201.jpg)
@@ -204,12 +214,5 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.pdf
 
 ![Imagine 8](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Execution%20list%203.jpg)
 
-### 3.5.	Traceability matrix
-https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability%20Matrix.xlsx
-
-### 3.6.	Test case results.
-https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20cases.xlsx
-
-### 3.7.	Bugs report.
-https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Bug%20report.pdf
+![Imagine 9](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution.jpg)
 
