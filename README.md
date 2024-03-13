@@ -198,7 +198,7 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.xlsx
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.pdf
 
 ### 3.6.	Test case results.
-
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Taste%20cases%20results.pdf
 
 ### 3.7.	Bugs report.
 
