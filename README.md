@@ -193,7 +193,9 @@ The test conditions will be created based on the business requirements validated
 ![Imagine 2](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20summary%202.jpg)
 
 ### 3.5.	Traceability matrix
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.xlsx
 
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.pdf
 
 ### 3.6.	Test case results.
 
