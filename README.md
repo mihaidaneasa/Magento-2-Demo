@@ -203,7 +203,7 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.pdf
 ### 3.7.	Bugs report.
 
 
-### 3.8. Test execution
+### 3.8.	Test completion report.
 ![Imagine 9](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution.jpg)
 
 ![Imagine 3](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution%20Daily.jpg)
