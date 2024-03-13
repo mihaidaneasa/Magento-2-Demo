@@ -201,7 +201,7 @@ https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Traceability.pdf
 https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Taste%20cases%20results.pdf
 
 ### 3.7.	Bugs report.
-
+https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Bug%20reports.pdf
 
 ### 3.8.	Test completion report.
 ![Imagine 9](https://github.com/mihaidaneasa/Magento-2-Demo/blob/main/Test%20execution.jpg)
